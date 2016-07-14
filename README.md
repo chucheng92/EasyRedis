@@ -1,9 +1,6 @@
-### 部分缓存算法的实现
+### Java操作redis
 
-- [x] FIFO
-- [x] LFU
-- [x] LRU
-- [ ] RandomCache
+:smile::smile::smile:学学redis
 
 ### 联系我
 
